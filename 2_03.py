@@ -9,3 +9,6 @@ if totalsolary > 100:
     print("You are rich")
 else :
     print("You are poor")    
+
+
+    Hi there, new information
